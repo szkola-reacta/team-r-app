@@ -1,0 +1,185 @@
+[
+    {
+        "id": "e400356f-e029-44d3-ab86-9fb94a2c28f8",
+        "title": "Windsurfing",
+        "title-image": "https://cdn.pixabay.com/photo/2021/08/19/16/31/flowers-6558487_960_720.jpg",
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus ex id turpis convallis, eu eleifend dui aliquam. Nullam in tortor ac enim pellentesque ultricies. Etiam quis ante id tortor",
+        "author": {
+            "name": "Sebas",
+            "surname": "Enas",
+            "age": 23,
+            "lifestyle": "Free spirit",
+            "job": "Traveler"
+        },
+        "post-description": {
+            "title": "Geting in the wind",
+            "location": "white Lake",
+            "date": "2019-12-02",
+            "description": {
+                "des-title": "Imersed in winter lake",
+                "par1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "par2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "places-near": [
+                    "castels near white lake",
+                    "interesting places near white lake"
+                ],
+                "img-link": "https://cdn.pixabay.com/photo/2017/10/26/13/42/morning-2891123_960_720.jpg",
+                "link": "https://pl.wikipedia.org/wiki/Jezioro_Bia%C5%82e_(wojew%C3%B3dztwo_lubelskie)"
+            }
+        },
+        "tags": [
+            "lake",
+            "journey",
+            "view",
+            "chill",
+            "winter"
+        ]
+    },
+    {
+        "id": "fb5f895d-d6f6-48ff-94b9-649855fcdf50",
+        "title": "Hiking",
+        "title-image": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus ex id turpis convallis, eu eleifend dui aliquam. Nullam in tortor ac enim pellentesque ultricies. Etiam quis ante id tortor",
+        "author": {
+            "name": "Emmie",
+            "surname": "Kougan",
+            "age": 27,
+            "lifestyle": "Take it easy!",
+            "job": "Solider"
+        },
+        "post-description": {
+            "title": "Always higher",
+            "location": "Mount Blanc",
+            "date": "2020-03-01",
+            "description": {
+                "des-title": "Taking breatch from 3000 meter",
+                "par1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "par2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "places-near": [
+                    "mountains",
+                    "Mount blanc",
+                    "Paris"
+                ],
+                "img-link": "https://cdn.pixabay.com/photo/2016/08/09/21/54/lake-1581879_960_720.jpg",
+                "link": "https://pl.wikipedia.org/wiki/Mont_Blanc"
+            }
+        },
+        "tags": [
+            "mountain",
+            "journey",
+            "view",
+            "hard work",
+            "sunny"
+        ]
+    },
+    {
+        "id": "49d89745-9220-4197-8479-9e5374fd5f21",
+        "title": "Travel beyond sea",
+        "title-image": "https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg",
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus ex id turpis convallis, eu eleifend dui aliquam. Nullam in tortor ac enim pellentesque ultricies. Etiam quis ante id tortor",
+        "author": {
+            "name": "Yoris",
+            "surname": "Akabane",
+            "age": 65,
+            "lifestyle": "Strict",
+            "job": "Pensioner"
+        },
+        "post-description": {
+            "title": "Tame the sea",
+            "location": "Japan Sea",
+            "date": "2020-07-09",
+            "description": {
+                "des-title": "Imersed in winter lake",
+                "par1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "par2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "places-near": [
+                    "Japan",
+                    "Hokkaido",
+                    "Akibahara"
+                ],
+                "img-link": "https://cdn.pixabay.com/photo/2014/12/15/17/16/boardwalk-569314_960_720.jpg",
+                "link": "https://pl.wikipedia.org/wiki/Morze_Japo%C5%84skie"
+            }
+        },
+        "tags": [
+            "sea",
+            "journey",
+            "taming",
+            "challenge"
+        ]
+    },
+    {
+        "id": "3cf2baa3-e298-4546-93c9-3c9a1c8a68fd",
+        "title": "FoRest",
+        "title-image": "https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg",
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus ex id turpis convallis, eu eleifend dui aliquam. Nullam in tortor ac enim pellentesque ultricies. Etiam quis ante id tortor",
+        "author": {
+            "name": "Maggie",
+            "surname": "Kanas",
+            "age": 19,
+            "lifestyle": "passionate",
+            "job": "Student"
+        },
+        "post-description": {
+            "title": "Get inspired by nature",
+            "location": "Värmland",
+            "date": "2020-10-22",
+            "description": {
+                "des-title": "Imersed in winter lake",
+                "par1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "par2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "places-near": [
+                    "sweeden forest",
+                    "northern Lights",
+                    "polarn pole"
+                ],
+                "img-link": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg",
+                "link": "https://pl.wikipedia.org/wiki/Las"
+            }
+        },
+        "tags": [
+            "forest",
+            "sweden",
+            "view",
+            "nature",
+            "something new"
+        ]
+    },
+    {
+        "id": "46d9be42-07dc-47ee-a862-72427b66b9bf",
+        "title": "Cave exploration",
+        "title-image": "https://cdn.pixabay.com/photo/2015/07/27/19/13/cave-863155_960_720.jpg",
+        "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus ex id turpis convallis, eu eleifend dui aliquam. Nullam in tortor ac enim pellentesque ultricies. Etiam quis ante id tortor",
+        "author": {
+            "name": "Emi",
+            "surname": "Cegin",
+            "age": 32,
+            "lifestyle": "Hell girl",
+            "job": "Dicator"
+        },
+        "post-description": {
+            "title": "From underground",
+            "location": "Hoyo negro",
+            "date": "2020-12-13",
+            "description": {
+                "des-title": "Almost chrismas, but still warm",
+                "par1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "par2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices sodales turpis. Vivamus sit amet auctor erat. Ut ut ullamcorper turpis. Maecenas sit amet semper risus. Nunc ultricies tempor massa, vitae pretium magna tincidunt vel. Duis iaculis mi non leo finibus auctor. In non sagittis magna. Mauris in sem non dui mattis aliquet vitae non massa. Proin laoreet ut tortor et malesuada. Donec et odio sollicitudin, lacinia arcu a, molestie nisl. Mauris iaculis tincidunt justo quis luctus.",
+                "places-near": [
+                    "mexico",
+                    "hoyo negro",
+                    "mexico ocean"
+                ],
+                "img-link": "https://cdn.pixabay.com/photo/2015/03/26/09/48/cave-690348_960_720.jpg",
+                "link": "https://en.wikipedia.org/wiki/Naia_(skeleton)"
+            }
+        },
+        "tags": [
+            "cave",
+            "underground",
+            "view",
+            "scary",
+            "beatiful"
+        ]
+    }
+]
