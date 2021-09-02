@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap");
+.post_container {
+    min-height: 100vh;
+    background-image: url("./img//27525.png");
+    background-size: cover;
+}
+.post_header {
+    position: relative;
+    min-height: 70vh;
+    .post_title {
+        z-index: 2;
+        position: relative;
+        font-size: 1.6rem;
+        padding: 20px;
+        color: rgb(252, 252, 252);
+    }
+    img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+}
+.post_body {
+    min-height: 100vh;
+    font-family: "Nova Mono", monospace;
+
+    h1 {
+        padding: 10px;
+    }
+    .post_paraph {
+        background: rgba(0, 0, 0, 0.3);
+        color: white;
+        height: 30vh;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .post_places {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        h4 {
+            padding: 20px;
+            font-size: 1.3rem;
+        }
+        div {
+            display: flex;
+            p {
+                background-image: linear-gradient(to right, #da22ff 0%, #9733ee 51%, #da22ff 100%);
+                margin: 10px;
+                padding: 15px 15px;
+                text-align: center;
+                text-transform: uppercase;
+                transition: 0.5s;
+                background-size: 200% auto;
+                color: white;
+                box-shadow: 0 0 20px #eee;
+                border-radius: 10px;
+                display: block;
+            }
+            p:hover {
+                background-position: right center;
+                color: #fff;
+                text-decoration: none;
+                cursor: pointer;
+            }
+        }
+    }
+}
+.post_footer {
+    padding: 20px;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h5 {
+        font-size: 1.2rem;
+    }
+    .post_tags {
+        display: flex;
+        label {
+            background-image: linear-gradient(to right, #da22ff 0%, #9733ee 51%, #da22ff 100%);
+            margin: 10px;
+            padding: 10px 10px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+        }
+        label:hover {
+            background-position: right center;
+            color: #fff;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    }
+}
