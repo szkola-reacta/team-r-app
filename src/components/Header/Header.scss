@@ -1,0 +1,15 @@
+.Header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+
+  background-color: #ECF0F1;
+  color: #2C3E50;
+  font-weight: 600;
+
+  padding: 10px;
+
+  &__Sections {
+    display: flex;
+  }
+}
