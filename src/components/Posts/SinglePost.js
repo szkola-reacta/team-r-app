@@ -1,7 +1,7 @@
-import React from 'react'
 import { useState, useEffect } from 'react'
 import { Parallax } from 'react-parallax';
 import './style.scss';
+
 const SinglePost = () => {
 
     const [posts, setPosts] = useState();
@@ -16,7 +16,6 @@ const SinglePost = () => {
             .then(res => setPosts(res[0]))
             .catch(err => console.log(err))
     }
-    console.log(posts);
 
     return (
         <div className='post_container'>
